@@ -2,4 +2,4 @@
 
 #move / replace pionux-sddm thea
 
-sudo mv Pionux/ /usr/share/sddm/themes/Pionux/
+pkexec mv Pionux/ /usr/share/sddm/themes/Pionux/
