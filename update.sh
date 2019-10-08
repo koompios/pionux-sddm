@@ -1,5 +1,5 @@
 #/bin/bash
 
-#move / replace pionux-sddm theame 
+#move / replace pionux-sddm thea
 
-sudo mv pionux-sddm /usr/share/sddm/themes/
+sudo mv Pionux/ /usr/share/sddm/themes/Pionux/
