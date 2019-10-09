@@ -2,4 +2,4 @@
 
 #move / replace pionux-sddm thea
 
-pkexec mv $PWD/pionux/pionux-sddm/Pionux/ /usr/share/sddm/themes/
+pkexec mv $PWD/.pionux/pionux-sddm/Pionux/ /usr/share/sddm/themes/
